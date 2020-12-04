@@ -1,5 +1,5 @@
 # task
-## version alpha 0
+## version 1.0.0-alpha
 
 Task is task management system, this repository is a learning purpose with real world case how microservices works. 
 
